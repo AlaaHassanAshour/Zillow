@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Zillow\Zillow.Data\bin\Debug\net5.0\Zillow.Data.deps.json
+C:\Users\admin\source\repos\Zillow\Zillow.Data\bin\Debug\net5.0\Zillow.Data.runtimeconfig.json
+C:\Users\admin\source\repos\Zillow\Zillow.Data\bin\Debug\net5.0\Zillow.Data.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Zillow\Zillow.Data\bin\Debug\net5.0\Zillow.Data.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Data\bin\Debug\net5.0\ref\Zillow.Data.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Data\bin\Debug\net5.0\Zillow.Data.pdb
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\ref\Zillow.Data.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.pdb
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.genruntimeconfig.cache
+C:\Users\admin\source\repos\Zillow\Zillow.Data\obj\Debug\net5.0\Zillow.Data.csprojAssemblyReference.cache

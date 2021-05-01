@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Zillow\Zillow.Core\bin\Debug\net5.0\Zillow.Core.deps.json
+C:\Users\admin\source\repos\Zillow\Zillow.Core\bin\Debug\net5.0\Zillow.Core.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Core\bin\Debug\net5.0\ref\Zillow.Core.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Core\bin\Debug\net5.0\Zillow.Core.pdb
+C:\Users\admin\source\repos\Zillow\Zillow.Core\bin\Debug\net5.0\Zillow.Data.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Core\bin\Debug\net5.0\Zillow.Data.pdb
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.csproj.CopyComplete
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\ref\Zillow.Core.dll
+C:\Users\admin\source\repos\Zillow\Zillow.Core\obj\Debug\net5.0\Zillow.Core.pdb
